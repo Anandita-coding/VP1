@@ -48,7 +48,7 @@ background(47,80,139)
     }else{
       dog.addImage(dogI)
     }
-
+food.display();
 }
 function readStock(data){
    foodS = data.val();
